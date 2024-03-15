@@ -1,0 +1,7 @@
+Dupla: Hugo Yan Capozzoli Costa e Gabriel Leite Oliveira da Silva
+
+Site escolhido: amazon.com
+
+Segundo a depuração, o site da amazon foi desenvolvido com as linguagens HTML + CSS (linguagens de marcação) e também JavaScript, não conseguimos identificar os frameworks utilizados.
+Este é um site responsivo e que possui várias clouds na área de "fontes" no DevTools, na área de "rede" pude perceber que é um site com uma resposta relativamente rápida e transferiu 3.7 MB e 18 MB carregados em recursos pela rede solicitação realizada.
+O site da Amazon utilizou em média 30 MB de memória RAM e é protegido pelo protocolo HTTPS.
